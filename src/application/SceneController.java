@@ -1,7 +1,6 @@
 package application;
 
 import java.io.IOException;
-import application.BNode;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
